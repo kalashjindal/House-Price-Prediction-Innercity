@@ -22,8 +22,5 @@ fifth commiit
 
 # some another commit
 
-<<<<<<< HEAD
 # some changes
-=======
-#more changesss
->>>>>>> myfeature
+
