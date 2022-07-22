@@ -14,6 +14,12 @@ third commit
 fourth committ
 
 # for 5th
+<<<<<<< HEAD
 fifth commiit
 
 #some commit
+=======
+fifth 
+
+#another commit
+>>>>>>> simple
